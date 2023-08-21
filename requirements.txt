@@ -41,7 +41,6 @@ docker==5.0.3
 docker-compose==1.29.2
 dockerpty==0.4.1
 docopt==0.6.2
-duplicity==0.8.21
 et-xmlfile==1.1.0
 evdev==1.4.0
 exceptiongroup==1.0.4
