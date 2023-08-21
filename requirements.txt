@@ -42,7 +42,7 @@ defer==1.0.6
 defusedxml==0.7.1
 distlib==0.3.6
 distro==1.7.0
-distro-info===1.1build1
+distro-info===1.0
 docker==5.0.3
 docker-compose==1.29.2
 dockerpty==0.4.1
